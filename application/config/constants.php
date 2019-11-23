@@ -13,6 +13,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);
 
+//recaptcha v3
+define('SITE_KEY', '6LeOMMQUAAAAAI7zz7g2PwF_V7RCB00l40QKoGWU');
+define('SECRETE_KEY', '6LeOMMQUAAAAAGIAlIf9boMy3d3kMQ4ZW6sylBRd');
+
+
 /*
 |--------------------------------------------------------------------------
 | File and Directory Modes
